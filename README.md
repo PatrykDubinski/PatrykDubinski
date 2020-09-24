@@ -1,4 +1,4 @@
-### Welcome on my profile <img src="https://github.com/PatrykDubinski/PatrykDubinski/blob/master/wave.gif" width="30px" />
+### Welcome on my profile <img src="https://github.com/PatrykDubinski/PatrykDubinski/blob/master/wave.gif" width="30px" height="30px" />
 
 Here are some ideas to get you started:
 
