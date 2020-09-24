@@ -7,5 +7,7 @@ I like to spend my free time outside playing any sport games, it's easier to cle
 #### 🧰 Technologies & Tools
 <img src="https://img.shields.io/badge/OS-Windows-brightgreen" /> <img src="https://img.shields.io/badge/Editor-VSCode-brightgreen" /> <img src="https://img.shields.io/badge/Code-JavaScript-brightgreen" /> <img src="https://img.shields.io/badge/Code-HTML-brightgreen" /> <img src="https://img.shields.io/badge/Code-CSS-brightgreen" /> <img src="https://img.shields.io/badge/Code-ReactJS-brightgreen" /> <img src="https://img.shields.io/badge/Tools-Git-brightgreen" />
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PatrykDubinski)](https://github.com/PatrykDubinski/github-readme-stats)
+
 
 
