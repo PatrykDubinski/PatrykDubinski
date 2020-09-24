@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**PatrykDubinski/PatrykDubinski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Welcome on my profile <img src="https://github.com/PatrykDubinski/PatrykDubinski/blob/master/wave.gif" width="30px" />
 
 Here are some ideas to get you started:
 
